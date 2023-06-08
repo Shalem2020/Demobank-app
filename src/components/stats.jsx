@@ -1,11 +1,11 @@
 import React from 'react'
 
-const CTA = () => {
+const stats = () => {
   return (
     <div>
-      CTA
+      stats
     </div>
   )
 }
 
-export default CTA
+export default stats
